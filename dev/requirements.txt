@@ -1,0 +1,41 @@
+# Core Dependencies for Social Media Sentiment Analysis Dashboard
+# Assignment 1: Foundation Module
+
+# Data Collection
+tweepy>=4.14.0              # Official Twitter API wrapper
+snscrape>=0.7.0            # Alternative Twitter scraper (no API key needed)
+pandas>=2.0.0              # Data manipulation
+
+# Text Processing
+nltk>=3.8.1                # Natural Language Toolkit
+spacy>=3.7.0               # Advanced NLP library
+regex>=2023.12.25          # Enhanced regex support
+
+# Visualization
+matplotlib>=3.7.0          # Basic plotting
+seaborn>=0.13.0            # Statistical visualization
+wordcloud>=1.9.0           # Word cloud generation
+pillow>=10.0.0             # Image processing
+
+# Sentiment Analysis Models
+vaderSentiment>=3.3.2      # VADER sentiment analyzer
+transformers>=4.35.0       # Hugging Face transformers (BERT, etc.)
+torch>=2.0.0               # PyTorch (for transformer models)
+# OR
+# tensorflow>=2.14.0       # TensorFlow alternative
+
+# Optimization (Optional but Recommended)
+scikit-learn>=1.3.0        # ML utilities
+numpy>=1.24.0              # Numerical computing
+
+# API & Web Framework (for future dashboard)
+flask>=3.0.0               # Web framework
+requests>=2.31.0           # HTTP library
+
+# Data Storage (Optional)
+sqlalchemy>=2.0.0          # Database ORM
+pymongo>=4.5.0             # MongoDB driver
+
+# Development Tools
+jupyter>=1.0.0             # Jupyter notebooks
+ipykernel>=6.25.0          # IPython kernel

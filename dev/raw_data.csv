@@ -1,0 +1,501 @@
+id,date,text,username,likes,retweets,replies,source
+sample_0,2026-01-24 17:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user6761,333,48,2,sample_data
+sample_1,2026-01-26 13:08:35.542518,Considering Python programming. Need more information first,user9567,218,50,21,sample_data
+sample_2,2026-01-24 10:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user5565,95,37,45,sample_data
+sample_3,2026-02-06 22:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user7346,168,50,7,sample_data
+sample_4,2026-01-16 22:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user2694,277,2,49,sample_data
+sample_5,2026-01-22 13:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user2745,356,1,29,sample_data
+sample_6,2026-02-02 04:08:35.542518,Python programming is incredible! Everyone should try it,user3664,205,84,45,sample_data
+sample_7,2026-01-19 18:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user2707,68,61,47,sample_data
+sample_8,2026-01-21 17:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user5156,44,24,45,sample_data
+sample_9,2026-02-01 10:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user5056,267,68,31,sample_data
+sample_10,2026-02-13 08:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user5888,395,6,7,sample_data
+sample_11,2026-01-21 03:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user7359,373,62,40,sample_data
+sample_12,2026-01-27 16:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user3052,450,87,46,sample_data
+sample_13,2026-01-19 16:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user1572,200,67,23,sample_data
+sample_14,2026-01-19 15:08:35.542518,Has anyone used Python programming recently?,user3160,284,99,14,sample_data
+sample_15,2026-02-13 00:08:35.542518,What do people think about Python programming?,user8900,79,66,30,sample_data
+sample_16,2026-01-28 01:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user7137,159,39,49,sample_data
+sample_17,2026-01-20 05:08:35.542518,Don't waste your time on Python programming. Terrible product,user6010,192,87,34,sample_data
+sample_18,2026-01-19 03:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user6486,238,3,32,sample_data
+sample_19,2026-02-05 12:08:35.542518,Obsessed with Python programming! Life is so much better now,user2771,330,90,25,sample_data
+sample_20,2026-01-25 04:08:35.542518,Obsessed with Python programming! Life is so much better now,user9894,393,12,17,sample_data
+sample_21,2026-01-24 05:08:35.542518,Very disappointed with Python programming. Customer service is awful,user5481,195,18,17,sample_data
+sample_22,2026-01-18 05:08:35.542518,Very disappointed with Python programming. Customer service is awful,user3130,416,100,38,sample_data
+sample_23,2026-02-14 20:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user6366,207,4,49,sample_data
+sample_24,2026-01-18 03:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user1869,271,31,18,sample_data
+sample_25,2026-02-07 02:08:35.542518,Has anyone used Python programming recently?,user5250,74,94,20,sample_data
+sample_26,2026-01-18 03:08:35.542518,Regret buying Python programming. Should have read reviews first,user6934,225,91,4,sample_data
+sample_27,2026-01-24 10:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user5622,92,7,25,sample_data
+sample_28,2026-02-13 14:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user4830,417,47,3,sample_data
+sample_29,2026-02-04 01:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user6059,168,71,45,sample_data
+sample_30,2026-02-11 00:08:35.542518,Python programming is incredible! Everyone should try it,user5518,40,42,9,sample_data
+sample_31,2026-02-10 02:08:35.542518,Obsessed with Python programming! Life is so much better now,user6459,4,45,41,sample_data
+sample_32,2026-01-17 18:08:35.542518,Python programming is so disappointing. Not worth the hype,user2851,461,55,17,sample_data
+sample_33,2026-02-13 04:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user6926,499,79,26,sample_data
+sample_34,2026-01-24 06:08:35.542518,Looking into Python programming options. Any recommendations?,user5750,248,38,12,sample_data
+sample_35,2026-02-03 09:08:35.542518,Python programming has too many issues. Not happy at all,user6192,334,71,39,sample_data
+sample_36,2026-01-18 14:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user6367,470,6,22,sample_data
+sample_37,2026-02-08 08:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user2802,261,59,44,sample_data
+sample_38,2026-02-10 23:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user8220,239,15,25,sample_data
+sample_39,2026-01-24 18:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user6528,129,23,28,sample_data
+sample_40,2026-01-21 17:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user3124,130,12,41,sample_data
+sample_41,2026-02-03 13:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user3367,15,17,44,sample_data
+sample_42,2026-02-13 03:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user8042,70,37,37,sample_data
+sample_43,2026-02-14 16:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user9187,241,82,22,sample_data
+sample_44,2026-02-04 07:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user7374,89,38,4,sample_data
+sample_45,2026-02-06 02:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user4443,118,35,32,sample_data
+sample_46,2026-02-15 17:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user5362,190,15,26,sample_data
+sample_47,2026-01-18 14:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user4782,441,76,4,sample_data
+sample_48,2026-01-18 20:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user3253,42,92,11,sample_data
+sample_49,2026-01-28 05:08:35.542518,Python programming is overrated. Expected much better quality,user6713,486,28,49,sample_data
+sample_50,2026-01-23 07:08:35.542518,Don't waste your time on Python programming. Terrible product,user8991,160,22,1,sample_data
+sample_51,2026-02-08 16:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user9660,87,96,44,sample_data
+sample_52,2026-01-16 23:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user5498,228,17,31,sample_data
+sample_53,2026-01-29 04:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user8798,287,55,44,sample_data
+sample_54,2026-01-30 19:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user4389,322,45,15,sample_data
+sample_55,2026-01-30 05:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user5492,195,4,30,sample_data
+sample_56,2026-02-14 10:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user3549,265,30,6,sample_data
+sample_57,2026-01-18 06:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user8678,19,79,1,sample_data
+sample_58,2026-02-13 05:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user9054,143,79,10,sample_data
+sample_59,2026-01-29 21:08:35.542518,Very disappointed with Python programming. Customer service is awful,user4373,254,73,5,sample_data
+sample_60,2026-01-20 14:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user5075,473,42,10,sample_data
+sample_61,2026-01-27 22:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user5672,164,60,1,sample_data
+sample_62,2026-01-22 08:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user5560,377,19,46,sample_data
+sample_63,2026-02-07 20:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user4318,24,57,18,sample_data
+sample_64,2026-02-15 14:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user5927,386,85,22,sample_data
+sample_65,2026-02-01 02:08:35.542518,Obsessed with Python programming! Life is so much better now,user9595,440,86,17,sample_data
+sample_66,2026-02-14 16:08:35.542518,Python programming is so disappointing. Not worth the hype,user8378,162,92,7,sample_data
+sample_67,2026-01-23 11:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user4231,223,33,10,sample_data
+sample_68,2026-02-06 09:08:35.542518,Regret buying Python programming. Should have read reviews first,user7630,364,43,19,sample_data
+sample_69,2026-01-29 01:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user3046,36,90,16,sample_data
+sample_70,2026-01-17 11:08:35.542518,Python programming seems interesting. Need to research more,user1883,324,43,24,sample_data
+sample_71,2026-02-14 20:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user3634,282,65,11,sample_data
+sample_72,2026-02-06 18:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user9897,382,65,7,sample_data
+sample_73,2026-01-18 21:08:35.542518,Looking into Python programming options. Any recommendations?,user9618,249,79,48,sample_data
+sample_74,2026-01-31 18:08:35.542518,Obsessed with Python programming! Life is so much better now,user2016,496,35,48,sample_data
+sample_75,2026-02-02 03:08:35.542518,Python programming is overrated. Expected much better quality,user7922,274,90,25,sample_data
+sample_76,2026-01-20 14:08:35.542518,Terrible experience with Python programming. Don't recommend it,user5123,245,67,19,sample_data
+sample_77,2026-02-09 13:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user2471,113,87,38,sample_data
+sample_78,2026-01-28 14:08:35.542518,Regret buying Python programming. Should have read reviews first,user2137,72,69,3,sample_data
+sample_79,2026-01-20 07:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user6748,37,51,26,sample_data
+sample_80,2026-02-06 02:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user1399,412,22,50,sample_data
+sample_81,2026-01-20 10:08:35.542518,Can't stop using Python programming! Game changer for me,user4704,238,22,30,sample_data
+sample_82,2026-01-19 17:08:35.542518,Python programming has too many issues. Not happy at all,user3616,93,27,24,sample_data
+sample_83,2026-01-27 03:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user6407,475,97,45,sample_data
+sample_84,2026-01-29 06:08:35.542518,Can't stop using Python programming! Game changer for me,user1450,222,99,4,sample_data
+sample_85,2026-02-01 08:08:35.542518,Obsessed with Python programming! Life is so much better now,user8498,450,22,3,sample_data
+sample_86,2026-01-24 18:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user7302,255,15,45,sample_data
+sample_87,2026-02-04 06:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user1407,204,31,42,sample_data
+sample_88,2026-02-03 22:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user4608,464,90,33,sample_data
+sample_89,2026-02-10 09:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user7300,50,95,11,sample_data
+sample_90,2026-02-14 18:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user2770,290,0,4,sample_data
+sample_91,2026-02-02 19:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user3728,327,69,25,sample_data
+sample_92,2026-02-11 12:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user6850,398,87,25,sample_data
+sample_93,2026-02-06 15:08:35.542518,Python programming is overrated. Expected much better quality,user9455,135,51,26,sample_data
+sample_94,2026-01-19 18:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user3546,5,56,24,sample_data
+sample_95,2026-01-18 11:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user6593,433,24,10,sample_data
+sample_96,2026-01-30 20:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user2659,252,70,21,sample_data
+sample_97,2026-02-03 19:08:35.542518,Python programming is so disappointing. Not worth the hype,user5405,351,64,20,sample_data
+sample_98,2026-01-21 19:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user5600,107,22,4,sample_data
+sample_99,2026-01-19 21:08:35.542518,Very disappointed with Python programming. Customer service is awful,user8806,466,46,30,sample_data
+sample_100,2026-02-05 15:08:35.542518,Terrible experience with Python programming. Don't recommend it,user3706,94,50,8,sample_data
+sample_101,2026-02-07 03:08:35.542518,Python programming is overrated. Expected much better quality,user4312,174,46,27,sample_data
+sample_102,2026-02-09 15:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user6965,101,52,46,sample_data
+sample_103,2026-02-06 17:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user3330,207,14,19,sample_data
+sample_104,2026-01-30 00:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user9716,236,63,25,sample_data
+sample_105,2026-01-18 14:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user8460,185,90,32,sample_data
+sample_106,2026-01-23 12:08:35.542518,Terrible experience with Python programming. Don't recommend it,user5798,102,53,10,sample_data
+sample_107,2026-01-30 01:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user2215,195,33,45,sample_data
+sample_108,2026-02-12 09:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user6941,232,10,20,sample_data
+sample_109,2026-01-17 09:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user3908,416,18,9,sample_data
+sample_110,2026-02-08 02:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user6430,291,81,35,sample_data
+sample_111,2026-01-17 17:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user2572,312,65,26,sample_data
+sample_112,2026-02-01 05:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user3898,395,98,16,sample_data
+sample_113,2026-02-02 10:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user6567,353,64,49,sample_data
+sample_114,2026-01-24 04:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user3132,14,35,0,sample_data
+sample_115,2026-02-09 21:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user2845,332,16,10,sample_data
+sample_116,2026-02-01 17:08:35.542518,Python programming is overrated. Expected much better quality,user2874,127,34,4,sample_data
+sample_117,2026-01-18 20:08:35.542518,Checking out Python programming today. Anyone have experience?,user2914,456,60,29,sample_data
+sample_118,2026-02-01 15:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user1387,451,59,15,sample_data
+sample_119,2026-02-09 15:08:35.542518,Considering Python programming. Need more information first,user7587,282,50,7,sample_data
+sample_120,2026-02-12 05:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user6274,380,18,32,sample_data
+sample_121,2026-02-06 13:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user2214,237,60,14,sample_data
+sample_122,2026-01-27 01:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user7127,361,32,4,sample_data
+sample_123,2026-02-10 22:08:35.542518,What do people think about Python programming?,user7708,414,47,44,sample_data
+sample_124,2026-01-26 12:08:35.542518,Checking out Python programming today. Anyone have experience?,user9374,31,1,4,sample_data
+sample_125,2026-02-09 14:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user4093,500,5,21,sample_data
+sample_126,2026-01-27 17:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user1334,486,34,2,sample_data
+sample_127,2026-02-02 03:08:35.542518,Obsessed with Python programming! Life is so much better now,user3092,60,99,28,sample_data
+sample_128,2026-02-01 15:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user4449,451,71,49,sample_data
+sample_129,2026-01-28 07:08:35.542518,Can't stop using Python programming! Game changer for me,user3072,421,50,8,sample_data
+sample_130,2026-02-07 15:08:35.542518,Don't waste your time on Python programming. Terrible product #Pythonprogramming,user4250,137,96,12,sample_data
+sample_131,2026-01-20 05:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user9788,365,46,31,sample_data
+sample_132,2026-02-01 08:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user8896,281,55,5,sample_data
+sample_133,2026-02-05 22:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user3947,85,20,28,sample_data
+sample_134,2026-02-12 08:08:35.542518,Python programming is overrated. Expected much better quality,user7015,289,81,36,sample_data
+sample_135,2026-01-24 02:08:35.542518,Can't stop using Python programming! Game changer for me,user7518,379,96,27,sample_data
+sample_136,2026-02-14 08:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user9575,29,94,11,sample_data
+sample_137,2026-01-24 02:08:35.542518,Checking out Python programming today. Anyone have experience?,user5218,27,42,2,sample_data
+sample_138,2026-01-28 23:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user8391,495,97,29,sample_data
+sample_139,2026-02-07 02:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user3443,139,44,22,sample_data
+sample_140,2026-01-28 21:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user6219,439,68,9,sample_data
+sample_141,2026-01-29 01:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user9046,47,25,48,sample_data
+sample_142,2026-02-12 21:08:35.542518,Python programming is overrated. Expected much better quality,user8905,373,4,28,sample_data
+sample_143,2026-02-06 15:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user6355,450,78,39,sample_data
+sample_144,2026-02-11 00:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user9891,357,97,34,sample_data
+sample_145,2026-01-31 01:08:35.542518,What do people think about Python programming? #Pythonprogramming,user7107,276,97,39,sample_data
+sample_146,2026-01-27 12:08:35.542518,Has anyone used Python programming recently?,user7742,340,76,33,sample_data
+sample_147,2026-01-20 23:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user5771,462,13,45,sample_data
+sample_148,2026-02-11 02:08:35.542518,Can't stop using Python programming! Game changer for me,user8534,43,69,22,sample_data
+sample_149,2026-02-03 17:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user6544,199,44,46,sample_data
+sample_150,2026-02-13 10:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user5490,488,52,40,sample_data
+sample_151,2026-01-30 15:08:35.542518,Obsessed with Python programming! Life is so much better now,user4087,106,30,44,sample_data
+sample_152,2026-01-28 12:08:35.542518,Python programming seems interesting. Need to research more,user1822,282,96,14,sample_data
+sample_153,2026-02-13 03:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user8023,495,95,16,sample_data
+sample_154,2026-02-01 18:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user8300,116,17,27,sample_data
+sample_155,2026-02-02 01:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user2657,282,65,49,sample_data
+sample_156,2026-01-17 18:08:35.542518,Obsessed with Python programming! Life is so much better now,user1587,397,54,32,sample_data
+sample_157,2026-01-17 16:08:35.542518,Can't stop using Python programming! Game changer for me,user4725,125,21,36,sample_data
+sample_158,2026-02-12 14:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user7938,416,67,20,sample_data
+sample_159,2026-01-20 18:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user8510,358,100,49,sample_data
+sample_160,2026-01-24 23:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user9418,49,55,12,sample_data
+sample_161,2026-01-27 16:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user4775,366,57,46,sample_data
+sample_162,2026-02-08 08:08:35.542518,Obsessed with Python programming! Life is so much better now,user9795,326,78,45,sample_data
+sample_163,2026-02-05 04:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user6606,316,35,26,sample_data
+sample_164,2026-01-20 17:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user9037,350,19,30,sample_data
+sample_165,2026-02-06 20:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user3872,211,31,33,sample_data
+sample_166,2026-01-20 19:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user6004,300,39,11,sample_data
+sample_167,2026-01-25 05:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user4282,111,100,42,sample_data
+sample_168,2026-01-23 15:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user4485,338,20,10,sample_data
+sample_169,2026-02-14 23:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user6140,450,29,23,sample_data
+sample_170,2026-02-14 03:08:35.542518,What do people think about Python programming? #Pythonprogramming,user3870,429,91,26,sample_data
+sample_171,2026-02-03 05:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user2594,261,100,42,sample_data
+sample_172,2026-02-01 12:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user3695,277,26,8,sample_data
+sample_173,2026-01-21 02:08:35.542518,What do people think about Python programming? #Pythonprogramming,user8477,187,19,6,sample_data
+sample_174,2026-01-21 05:08:35.542518,Python programming is overrated. Expected much better quality,user4602,284,82,19,sample_data
+sample_175,2026-01-28 14:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user2453,18,89,9,sample_data
+sample_176,2026-02-05 07:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user9297,476,85,24,sample_data
+sample_177,2026-01-22 15:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user7853,134,76,31,sample_data
+sample_178,2026-02-09 16:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user4740,456,65,32,sample_data
+sample_179,2026-01-17 14:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user4517,374,33,44,sample_data
+sample_180,2026-01-21 15:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user7708,315,88,20,sample_data
+sample_181,2026-01-18 06:08:35.542518,Don't waste your time on Python programming. Terrible product,user2306,306,92,43,sample_data
+sample_182,2026-02-07 12:08:35.542518,Python programming has too many issues. Not happy at all,user2254,208,99,10,sample_data
+sample_183,2026-02-06 07:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user7509,260,10,18,sample_data
+sample_184,2026-02-05 15:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user8144,245,92,12,sample_data
+sample_185,2026-01-31 01:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user4953,137,93,46,sample_data
+sample_186,2026-01-31 03:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user2614,118,4,31,sample_data
+sample_187,2026-02-07 19:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user8587,201,34,2,sample_data
+sample_188,2026-02-13 11:08:35.542518,Python programming is incredible! Everyone should try it,user3249,106,5,29,sample_data
+sample_189,2026-02-11 21:08:35.542518,Python programming seems interesting. Need to research more,user1894,225,24,14,sample_data
+sample_190,2026-02-12 15:08:35.542518,Python programming is overrated. Expected much better quality,user9073,176,82,47,sample_data
+sample_191,2026-02-05 20:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user1293,471,39,24,sample_data
+sample_192,2026-02-11 13:08:35.542518,Python programming has too many issues. Not happy at all,user2319,264,53,0,sample_data
+sample_193,2026-01-18 16:08:35.542518,Python programming has too many issues. Not happy at all,user9597,243,68,50,sample_data
+sample_194,2026-01-27 15:08:35.542518,Don't waste your time on Python programming. Terrible product #Pythonprogramming,user2738,157,53,25,sample_data
+sample_195,2026-02-08 05:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user3286,489,10,0,sample_data
+sample_196,2026-02-07 03:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user3404,487,22,40,sample_data
+sample_197,2026-02-05 19:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user5394,466,51,12,sample_data
+sample_198,2026-01-26 16:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user7806,132,49,32,sample_data
+sample_199,2026-01-19 03:08:35.542518,Don't waste your time on Python programming. Terrible product,user8864,298,28,16,sample_data
+sample_200,2026-01-28 13:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user3193,449,86,27,sample_data
+sample_201,2026-02-10 10:08:35.542518,Regret buying Python programming. Should have read reviews first,user5149,253,2,22,sample_data
+sample_202,2026-02-04 17:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user1451,96,19,11,sample_data
+sample_203,2026-02-04 19:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user5116,16,37,32,sample_data
+sample_204,2026-02-11 10:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user3924,418,99,21,sample_data
+sample_205,2026-01-22 22:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user1129,1,89,24,sample_data
+sample_206,2026-02-08 18:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user7858,210,35,6,sample_data
+sample_207,2026-02-05 14:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user4586,312,36,11,sample_data
+sample_208,2026-01-19 15:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user6840,437,22,42,sample_data
+sample_209,2026-01-22 14:08:35.542518,What do people think about Python programming?,user4685,196,95,22,sample_data
+sample_210,2026-01-27 05:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user8755,36,13,34,sample_data
+sample_211,2026-01-29 12:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user6587,463,80,3,sample_data
+sample_212,2026-02-02 17:08:35.542518,Python programming has too many issues. Not happy at all,user9020,54,37,34,sample_data
+sample_213,2026-02-06 04:08:35.542518,Can't stop using Python programming! Game changer for me,user1122,151,69,20,sample_data
+sample_214,2026-01-18 15:08:35.542518,Python programming is overrated. Expected much better quality,user8068,175,4,47,sample_data
+sample_215,2026-02-12 21:08:35.542518,Can't stop using Python programming! Game changer for me,user5926,25,18,33,sample_data
+sample_216,2026-02-01 12:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user3817,242,10,27,sample_data
+sample_217,2026-01-28 06:08:35.542518,What do people think about Python programming? #Pythonprogramming,user4720,274,92,28,sample_data
+sample_218,2026-01-22 00:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user2036,237,90,25,sample_data
+sample_219,2026-01-22 22:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user7323,163,34,28,sample_data
+sample_220,2026-02-07 19:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user9578,226,92,39,sample_data
+sample_221,2026-02-09 06:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user5968,251,36,14,sample_data
+sample_222,2026-02-04 23:08:35.542518,What do people think about Python programming?,user2155,263,59,37,sample_data
+sample_223,2026-02-15 09:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user2879,358,67,40,sample_data
+sample_224,2026-02-14 07:08:35.542518,Don't waste your time on Python programming. Terrible product,user5952,256,59,38,sample_data
+sample_225,2026-02-10 00:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user2627,364,93,7,sample_data
+sample_226,2026-01-27 22:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user2016,101,52,40,sample_data
+sample_227,2026-01-24 07:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user8043,265,48,22,sample_data
+sample_228,2026-01-20 02:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user3816,245,20,26,sample_data
+sample_229,2026-02-02 20:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user6841,480,5,41,sample_data
+sample_230,2026-01-31 02:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user9549,354,81,0,sample_data
+sample_231,2026-02-11 03:08:35.542518,Python programming has too many issues. Not happy at all,user3306,161,95,8,sample_data
+sample_232,2026-02-14 11:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user2790,37,87,39,sample_data
+sample_233,2026-01-16 23:08:35.542518,Python programming seems interesting. Need to research more,user3741,406,15,34,sample_data
+sample_234,2026-01-25 21:08:35.542518,Python programming seems interesting. Need to research more,user3564,412,27,9,sample_data
+sample_235,2026-01-21 02:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user2695,196,92,28,sample_data
+sample_236,2026-01-22 21:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user1495,188,27,10,sample_data
+sample_237,2026-02-09 15:08:35.542518,Python programming is overrated. Expected much better quality,user4426,237,49,14,sample_data
+sample_238,2026-01-26 20:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user8044,350,39,13,sample_data
+sample_239,2026-02-05 05:08:35.542518,Has anyone used Python programming recently?,user7962,11,23,6,sample_data
+sample_240,2026-01-27 05:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user9509,43,3,2,sample_data
+sample_241,2026-02-05 13:08:35.542518,Very disappointed with Python programming. Customer service is awful,user9506,13,28,20,sample_data
+sample_242,2026-01-16 19:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user7872,300,72,7,sample_data
+sample_243,2026-02-05 14:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user9930,197,52,26,sample_data
+sample_244,2026-01-29 04:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user4407,150,40,41,sample_data
+sample_245,2026-01-27 13:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user2391,252,64,43,sample_data
+sample_246,2026-01-21 14:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user7918,293,25,46,sample_data
+sample_247,2026-01-17 00:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user7485,151,36,21,sample_data
+sample_248,2026-02-06 05:08:35.542518,What do people think about Python programming? #Pythonprogramming,user6222,428,57,45,sample_data
+sample_249,2026-02-08 18:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user1578,427,99,48,sample_data
+sample_250,2026-01-27 16:08:35.542518,Regret buying Python programming. Should have read reviews first,user4744,308,35,40,sample_data
+sample_251,2026-01-23 12:08:35.542518,Python programming is incredible! Everyone should try it,user4908,208,33,41,sample_data
+sample_252,2026-01-16 20:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user4151,36,34,5,sample_data
+sample_253,2026-01-18 21:08:35.542518,Python programming is overrated. Expected much better quality,user3329,472,64,29,sample_data
+sample_254,2026-02-05 17:08:35.542518,What do people think about Python programming? #Pythonprogramming,user6665,115,46,17,sample_data
+sample_255,2026-01-25 18:08:35.542518,Has anyone used Python programming recently?,user8140,261,28,32,sample_data
+sample_256,2026-01-17 15:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user9112,26,16,16,sample_data
+sample_257,2026-02-13 05:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user7695,183,10,18,sample_data
+sample_258,2026-02-08 22:08:35.542518,Python programming seems interesting. Need to research more,user9034,336,97,39,sample_data
+sample_259,2026-01-25 01:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user3703,161,29,9,sample_data
+sample_260,2026-02-03 18:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user5684,248,46,15,sample_data
+sample_261,2026-01-30 21:08:35.542518,Considering Python programming. Need more information first,user6810,20,90,34,sample_data
+sample_262,2026-02-12 05:08:35.542518,Can't stop using Python programming! Game changer for me,user2902,174,55,47,sample_data
+sample_263,2026-02-09 01:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user7423,476,52,11,sample_data
+sample_264,2026-02-03 07:08:35.542518,Python programming is so disappointing. Not worth the hype,user3001,90,5,26,sample_data
+sample_265,2026-02-01 08:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user3599,207,40,32,sample_data
+sample_266,2026-01-27 07:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user7636,407,57,28,sample_data
+sample_267,2026-02-08 22:08:35.542518,Obsessed with Python programming! Life is so much better now,user5030,28,22,11,sample_data
+sample_268,2026-01-30 05:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user3121,376,21,17,sample_data
+sample_269,2026-01-25 09:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user5844,229,60,20,sample_data
+sample_270,2026-01-24 08:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user8658,342,47,23,sample_data
+sample_271,2026-02-05 11:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user5103,371,26,43,sample_data
+sample_272,2026-02-05 08:08:35.542518,Checking out Python programming today. Anyone have experience?,user1446,463,68,4,sample_data
+sample_273,2026-01-27 07:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user8072,350,63,15,sample_data
+sample_274,2026-02-02 00:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user4921,162,9,15,sample_data
+sample_275,2026-02-12 15:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user3784,498,2,45,sample_data
+sample_276,2026-02-05 11:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user7996,125,83,49,sample_data
+sample_277,2026-02-14 10:08:35.542518,Don't waste your time on Python programming. Terrible product #Pythonprogramming,user6042,467,92,15,sample_data
+sample_278,2026-02-02 03:08:35.542518,Regret buying Python programming. Should have read reviews first,user9984,498,49,11,sample_data
+sample_279,2026-02-04 07:08:35.542518,Can't stop using Python programming! Game changer for me,user2785,219,50,15,sample_data
+sample_280,2026-02-12 02:08:35.542518,Very disappointed with Python programming. Customer service is awful,user3038,409,66,19,sample_data
+sample_281,2026-02-05 16:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user7654,70,98,27,sample_data
+sample_282,2026-02-10 06:08:35.542518,Has anyone used Python programming recently?,user3696,301,95,12,sample_data
+sample_283,2026-01-19 09:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user1664,333,96,48,sample_data
+sample_284,2026-02-14 20:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user5541,278,2,35,sample_data
+sample_285,2026-02-06 07:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user4919,173,24,42,sample_data
+sample_286,2026-02-12 13:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user1646,132,17,24,sample_data
+sample_287,2026-02-02 07:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user2326,60,85,16,sample_data
+sample_288,2026-01-31 21:08:35.542518,Considering Python programming. Need more information first,user5064,103,44,39,sample_data
+sample_289,2026-01-22 20:08:35.542518,Considering Python programming. Need more information first,user7334,329,52,34,sample_data
+sample_290,2026-02-12 17:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user4257,383,88,38,sample_data
+sample_291,2026-02-13 21:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user6457,120,75,44,sample_data
+sample_292,2026-01-31 08:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user3521,434,82,18,sample_data
+sample_293,2026-01-25 18:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user1546,247,44,16,sample_data
+sample_294,2026-02-01 19:08:35.542518,Don't waste your time on Python programming. Terrible product,user7935,196,99,16,sample_data
+sample_295,2026-02-04 21:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user5607,489,30,24,sample_data
+sample_296,2026-01-23 10:08:35.542518,Can't stop using Python programming! Game changer for me,user8997,304,15,33,sample_data
+sample_297,2026-01-25 23:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user4567,199,84,8,sample_data
+sample_298,2026-01-18 22:08:35.542518,Can't stop using Python programming! Game changer for me,user3596,164,64,38,sample_data
+sample_299,2026-01-17 06:08:35.542518,Very disappointed with Python programming. Customer service is awful,user8692,332,100,2,sample_data
+sample_300,2026-01-26 14:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user9704,394,99,21,sample_data
+sample_301,2026-02-06 01:08:35.542518,What do people think about Python programming?,user7707,216,13,17,sample_data
+sample_302,2026-02-14 23:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user3203,402,63,36,sample_data
+sample_303,2026-02-14 12:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user1720,79,95,21,sample_data
+sample_304,2026-02-15 00:08:35.542518,Obsessed with Python programming! Life is so much better now,user1849,163,47,47,sample_data
+sample_305,2026-01-18 17:08:35.542518,Python programming is so disappointing. Not worth the hype,user8774,147,51,9,sample_data
+sample_306,2026-02-03 19:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user4956,232,25,43,sample_data
+sample_307,2026-01-26 08:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user4007,451,15,46,sample_data
+sample_308,2026-01-29 11:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user3975,141,1,13,sample_data
+sample_309,2026-02-01 04:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user6762,466,49,22,sample_data
+sample_310,2026-01-19 00:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user9759,158,15,32,sample_data
+sample_311,2026-01-19 19:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user2122,278,8,15,sample_data
+sample_312,2026-01-17 18:08:35.542518,Don't waste your time on Python programming. Terrible product,user6677,370,4,33,sample_data
+sample_313,2026-01-19 14:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user7496,275,38,3,sample_data
+sample_314,2026-01-19 18:08:35.542518,What do people think about Python programming?,user7197,352,63,42,sample_data
+sample_315,2026-01-22 07:08:35.542518,Regret buying Python programming. Should have read reviews first,user9216,57,70,20,sample_data
+sample_316,2026-01-18 11:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user1360,182,16,1,sample_data
+sample_317,2026-02-10 17:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user9735,497,53,8,sample_data
+sample_318,2026-02-15 14:08:35.542518,Has anyone used Python programming recently?,user4605,397,88,16,sample_data
+sample_319,2026-01-23 16:08:35.542518,Python programming is so disappointing. Not worth the hype,user7688,257,69,25,sample_data
+sample_320,2026-02-02 03:08:35.542518,What do people think about Python programming?,user5531,30,70,3,sample_data
+sample_321,2026-01-21 22:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user4647,371,40,40,sample_data
+sample_322,2026-02-07 00:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user4737,335,34,31,sample_data
+sample_323,2026-02-13 16:08:35.542518,Considering Python programming. Need more information first,user3283,28,52,40,sample_data
+sample_324,2026-01-23 06:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user2870,132,83,28,sample_data
+sample_325,2026-02-13 18:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user8705,337,8,14,sample_data
+sample_326,2026-02-03 18:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user4885,318,33,3,sample_data
+sample_327,2026-02-12 13:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user9553,393,62,28,sample_data
+sample_328,2026-02-14 07:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user7389,135,36,13,sample_data
+sample_329,2026-01-31 18:08:35.542518,Python programming is overrated. Expected much better quality,user3150,24,82,29,sample_data
+sample_330,2026-02-06 16:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user2361,273,26,27,sample_data
+sample_331,2026-02-02 11:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user9438,193,15,19,sample_data
+sample_332,2026-02-04 15:08:35.542518,Very disappointed with Python programming. Customer service is awful,user4946,119,11,2,sample_data
+sample_333,2026-01-17 06:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user8771,239,10,44,sample_data
+sample_334,2026-02-08 22:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user7330,310,76,26,sample_data
+sample_335,2026-02-14 13:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user2621,47,7,32,sample_data
+sample_336,2026-01-22 00:08:35.542518,Looking into Python programming options. Any recommendations?,user6299,78,58,3,sample_data
+sample_337,2026-01-29 22:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user7620,492,32,18,sample_data
+sample_338,2026-02-08 22:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user5884,30,61,26,sample_data
+sample_339,2026-02-11 21:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user4090,374,11,34,sample_data
+sample_340,2026-01-29 04:08:35.542518,Looking into Python programming options. Any recommendations?,user8871,492,77,5,sample_data
+sample_341,2026-02-11 11:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user8091,59,52,40,sample_data
+sample_342,2026-02-01 20:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user4427,7,40,4,sample_data
+sample_343,2026-01-26 17:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user8029,79,48,30,sample_data
+sample_344,2026-01-31 06:08:35.542518,Can't stop using Python programming! Game changer for me,user8977,150,3,24,sample_data
+sample_345,2026-01-23 14:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user2337,61,55,10,sample_data
+sample_346,2026-02-05 02:08:35.542518,Python programming is incredible! Everyone should try it,user9800,410,17,29,sample_data
+sample_347,2026-01-30 15:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user8924,2,37,30,sample_data
+sample_348,2026-01-31 00:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user9564,269,35,4,sample_data
+sample_349,2026-02-12 00:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user7933,293,64,20,sample_data
+sample_350,2026-02-01 13:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user4921,173,29,50,sample_data
+sample_351,2026-01-24 17:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user6694,88,87,31,sample_data
+sample_352,2026-01-22 02:08:35.542518,Don't waste your time on Python programming. Terrible product,user8768,302,15,13,sample_data
+sample_353,2026-02-04 12:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user5145,116,73,26,sample_data
+sample_354,2026-01-28 02:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user3129,170,79,29,sample_data
+sample_355,2026-01-20 09:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user2236,321,86,20,sample_data
+sample_356,2026-02-14 01:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user7010,349,20,20,sample_data
+sample_357,2026-02-04 21:08:35.542518,Python programming has too many issues. Not happy at all,user8008,456,48,6,sample_data
+sample_358,2026-01-17 01:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user5186,280,39,48,sample_data
+sample_359,2026-01-30 22:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user7640,320,73,43,sample_data
+sample_360,2026-01-20 05:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user2499,437,27,16,sample_data
+sample_361,2026-01-24 18:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user3260,226,8,46,sample_data
+sample_362,2026-01-29 14:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user5189,54,70,6,sample_data
+sample_363,2026-02-05 18:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user8302,445,10,5,sample_data
+sample_364,2026-02-01 16:08:35.542518,Python programming is so disappointing. Not worth the hype,user8413,232,12,3,sample_data
+sample_365,2026-01-23 10:08:35.542518,Python programming has too many issues. Not happy at all,user3285,300,92,45,sample_data
+sample_366,2026-01-24 07:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user8292,172,100,14,sample_data
+sample_367,2026-02-01 06:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user3021,298,2,2,sample_data
+sample_368,2026-01-19 11:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user9533,429,63,43,sample_data
+sample_369,2026-01-25 16:08:35.542518,Terrible experience with Python programming. Don't recommend it,user7974,480,27,34,sample_data
+sample_370,2026-02-03 15:08:35.542518,Python programming has too many issues. Not happy at all,user8115,179,88,15,sample_data
+sample_371,2026-02-05 16:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user6390,186,61,8,sample_data
+sample_372,2026-02-13 05:08:35.542518,Considering Python programming. Need more information first,user5776,411,29,34,sample_data
+sample_373,2026-02-06 00:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user6274,449,22,1,sample_data
+sample_374,2026-02-13 07:08:35.542518,Python programming has too many issues. Not happy at all,user4969,89,27,3,sample_data
+sample_375,2026-02-10 12:08:35.542518,Obsessed with Python programming! Life is so much better now,user5213,300,2,7,sample_data
+sample_376,2026-02-07 13:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user2523,103,62,21,sample_data
+sample_377,2026-02-04 19:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user9518,267,97,45,sample_data
+sample_378,2026-02-05 20:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user7558,406,70,39,sample_data
+sample_379,2026-01-19 06:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user4239,32,69,27,sample_data
+sample_380,2026-02-04 05:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user1283,245,59,21,sample_data
+sample_381,2026-02-10 23:08:35.542518,Looking into Python programming options. Any recommendations?,user7639,36,22,6,sample_data
+sample_382,2026-01-19 15:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user5257,66,43,7,sample_data
+sample_383,2026-02-06 14:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user2435,313,100,36,sample_data
+sample_384,2026-02-11 10:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user6092,208,96,31,sample_data
+sample_385,2026-01-28 10:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user9881,488,55,6,sample_data
+sample_386,2026-01-26 03:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user8777,296,67,33,sample_data
+sample_387,2026-01-27 22:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉 #Pythonprogramming,user3217,305,90,22,sample_data
+sample_388,2026-02-01 00:08:35.542518,Python programming is overrated. Expected much better quality,user4506,40,33,43,sample_data
+sample_389,2026-02-08 19:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user3546,479,60,1,sample_data
+sample_390,2026-01-19 10:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user1494,205,94,5,sample_data
+sample_391,2026-01-22 18:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user8242,405,18,28,sample_data
+sample_392,2026-02-03 07:08:35.542518,Python programming seems interesting. Need to research more,user9252,149,62,5,sample_data
+sample_393,2026-02-01 19:08:35.542518,Python programming has too many issues. Not happy at all,user1026,334,10,49,sample_data
+sample_394,2026-01-22 19:08:35.542518,Python programming seems interesting. Need to research more,user3626,377,74,11,sample_data
+sample_395,2026-01-17 00:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user8834,356,92,11,sample_data
+sample_396,2026-01-27 21:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user8254,241,47,19,sample_data
+sample_397,2026-02-02 09:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user6418,367,73,11,sample_data
+sample_398,2026-01-23 08:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user3199,1,6,38,sample_data
+sample_399,2026-02-07 06:08:35.542518,What do people think about Python programming?,user7734,16,78,26,sample_data
+sample_400,2026-02-14 03:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user1542,328,39,33,sample_data
+sample_401,2026-02-13 05:08:35.542518,Can't stop using Python programming! Game changer for me,user5225,418,78,33,sample_data
+sample_402,2026-01-22 13:08:35.542518,Don't waste your time on Python programming. Terrible product #Pythonprogramming,user9265,412,86,16,sample_data
+sample_403,2026-01-19 19:08:35.542518,I absolutely love Python programming! Best decision ever 😊,user3542,70,67,10,sample_data
+sample_404,2026-02-12 21:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user3846,325,85,3,sample_data
+sample_405,2026-02-07 15:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user7792,107,82,46,sample_data
+sample_406,2026-02-12 13:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user2139,209,27,25,sample_data
+sample_407,2026-01-25 06:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user9005,267,4,15,sample_data
+sample_408,2026-01-30 09:08:35.542518,Don't waste your time on Python programming. Terrible product,user8457,165,28,45,sample_data
+sample_409,2026-02-06 11:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user7262,423,83,19,sample_data
+sample_410,2026-02-09 18:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user2810,277,40,19,sample_data
+sample_411,2026-02-08 08:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user9003,372,60,40,sample_data
+sample_412,2026-02-04 06:08:35.542518,Python programming is incredible! Everyone should try it,user5387,410,45,16,sample_data
+sample_413,2026-02-12 07:08:35.542518,Considering Python programming. Need more information first,user9168,129,50,19,sample_data
+sample_414,2026-02-04 17:08:35.542518,Python programming seems interesting. Need to research more,user4597,89,36,39,sample_data
+sample_415,2026-02-02 09:08:35.542518,Regret buying Python programming. Should have read reviews first,user5926,19,100,44,sample_data
+sample_416,2026-02-14 10:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user5217,236,9,10,sample_data
+sample_417,2026-02-03 14:08:35.542518,Python programming seems interesting. Need to research more,user2264,35,71,37,sample_data
+sample_418,2026-02-03 19:08:35.542518,What do people think about Python programming? #Pythonprogramming,user8009,495,8,0,sample_data
+sample_419,2026-01-30 05:08:35.542518,Has anyone used Python programming recently? #Pythonprogramming,user2788,268,18,41,sample_data
+sample_420,2026-01-24 18:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user6140,407,92,22,sample_data
+sample_421,2026-02-10 12:08:35.542518,Python programming is overrated. Expected much better quality,user8764,228,41,4,sample_data
+sample_422,2026-02-12 12:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user1359,390,92,35,sample_data
+sample_423,2026-01-22 09:08:35.542518,Looking into Python programming options. Any recommendations?,user8842,43,26,12,sample_data
+sample_424,2026-02-01 19:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user9103,103,93,13,sample_data
+sample_425,2026-01-23 00:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user3357,145,93,6,sample_data
+sample_426,2026-01-23 13:08:35.542518,Don't waste your time on Python programming. Terrible product,user5295,449,52,10,sample_data
+sample_427,2026-02-11 08:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user3364,118,94,16,sample_data
+sample_428,2026-02-08 04:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user6116,10,76,9,sample_data
+sample_429,2026-01-23 14:08:35.542518,Best purchase ever! Python programming is phenomenal 🎉,user6640,329,69,44,sample_data
+sample_430,2026-01-25 15:08:35.542518,Looking into Python programming options. Any recommendations?,user8179,449,13,38,sample_data
+sample_431,2026-01-20 08:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user7787,465,7,4,sample_data
+sample_432,2026-02-09 15:08:35.542518,Python programming is so disappointing. Not worth the hype,user9604,51,92,34,sample_data
+sample_433,2026-01-20 04:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user1141,186,43,24,sample_data
+sample_434,2026-02-15 08:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user2617,274,37,36,sample_data
+sample_435,2026-02-14 21:08:35.542518,Python programming is amazing! Highly recommend it to everyone,user6665,116,82,25,sample_data
+sample_436,2026-02-13 02:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user5548,68,34,22,sample_data
+sample_437,2026-02-13 08:08:35.542518,Has anyone used Python programming recently?,user2630,329,95,12,sample_data
+sample_438,2026-02-01 15:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user1805,459,0,47,sample_data
+sample_439,2026-01-22 20:08:35.542518,Looking into Python programming options. Any recommendations?,user4811,351,1,36,sample_data
+sample_440,2026-01-30 08:08:35.542518,Wasted my money on Python programming. Very frustrated 😞 #Pythonprogramming,user6794,441,38,41,sample_data
+sample_441,2026-02-02 03:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user8365,446,31,15,sample_data
+sample_442,2026-01-27 11:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user6410,163,32,48,sample_data
+sample_443,2026-01-22 23:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user9490,64,46,42,sample_data
+sample_444,2026-01-16 19:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user9056,114,65,42,sample_data
+sample_445,2026-01-24 16:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user8466,18,22,3,sample_data
+sample_446,2026-02-04 16:08:35.542518,Python programming is amazing! Highly recommend it to everyone #Pythonprogramming,user1853,429,59,34,sample_data
+sample_447,2026-01-27 10:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user8001,318,18,35,sample_data
+sample_448,2026-01-20 08:08:35.542518,Obsessed with Python programming! Life is so much better now,user4912,51,4,27,sample_data
+sample_449,2026-01-23 00:08:35.542518,Looking into Python programming options. Any recommendations?,user9057,2,49,49,sample_data
+sample_450,2026-01-17 20:08:35.542518,Looking into Python programming options. Any recommendations?,user2704,60,22,20,sample_data
+sample_451,2026-01-24 10:08:35.542518,Python programming is so disappointing. Not worth the hype #Pythonprogramming,user2416,345,16,14,sample_data
+sample_452,2026-02-02 04:08:35.542518,Python programming seems interesting. Need to research more,user3055,273,75,10,sample_data
+sample_453,2026-01-26 15:08:35.542518,I absolutely love Python programming! Best decision ever 😊 #Pythonprogramming,user1410,229,98,39,sample_data
+sample_454,2026-02-10 23:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user5086,351,95,35,sample_data
+sample_455,2026-01-23 13:08:35.542518,Python programming is overrated. Expected much better quality #Pythonprogramming,user6380,65,13,37,sample_data
+sample_456,2026-01-31 00:08:35.542518,Thinking about trying Python programming. Mixed reviews though,user7222,10,76,45,sample_data
+sample_457,2026-01-30 04:08:35.542518,Very disappointed with Python programming. Customer service is awful #Pythonprogramming,user9001,51,5,3,sample_data
+sample_458,2026-02-11 05:08:35.542518,Python programming has too many issues. Not happy at all #Pythonprogramming,user8702,109,36,0,sample_data
+sample_459,2026-01-22 12:08:35.542518,Regret buying Python programming. Should have read reviews first,user1738,286,37,41,sample_data
+sample_460,2026-01-27 06:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user5351,272,59,37,sample_data
+sample_461,2026-01-23 10:08:35.542518,Wasted my money on Python programming. Very frustrated 😞,user7102,342,77,42,sample_data
+sample_462,2026-01-21 21:08:35.542518,Just got Python programming and I'm so happy! Worth every penny #Pythonprogramming,user6371,212,91,21,sample_data
+sample_463,2026-02-07 13:08:35.542518,Just got Python programming and I'm so happy! Worth every penny,user6441,116,15,11,sample_data
+sample_464,2026-01-31 20:08:35.542518,Checking out Python programming today. Anyone have experience?,user8494,92,12,6,sample_data
+sample_465,2026-01-22 13:08:35.542518,Looking into Python programming options. Any recommendations? #Pythonprogramming,user1971,285,14,34,sample_data
+sample_466,2026-02-15 14:08:35.542518,Terrible experience with Python programming. Don't recommend it,user3721,107,30,6,sample_data
+sample_467,2026-01-18 17:08:35.542518,Don't waste your time on Python programming. Terrible product,user1701,149,79,21,sample_data
+sample_468,2026-01-27 04:08:35.542518,Can't stop using Python programming! Game changer for me,user7169,206,43,24,sample_data
+sample_469,2026-01-22 22:08:35.542518,Considering Python programming. Need more information first,user3073,252,49,37,sample_data
+sample_470,2026-02-11 06:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user4800,432,96,49,sample_data
+sample_471,2026-01-30 17:08:35.542518,Terrible experience with Python programming. Don't recommend it #Pythonprogramming,user7034,246,84,50,sample_data
+sample_472,2026-01-26 06:08:35.542518,Python programming is overrated. Expected much better quality,user6085,323,10,20,sample_data
+sample_473,2026-02-02 08:08:35.542518,Python programming is incredible! Everyone should try it,user8963,490,39,4,sample_data
+sample_474,2026-01-26 06:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user4266,304,2,10,sample_data
+sample_475,2026-02-06 08:08:35.542518,Python programming seems interesting. Need to research more,user5490,250,98,17,sample_data
+sample_476,2026-02-05 11:08:35.542518,Checking out Python programming today. Anyone have experience? #Pythonprogramming,user7115,50,88,21,sample_data
+sample_477,2026-01-28 14:08:35.542518,Obsessed with Python programming! Life is so much better now,user3680,314,67,7,sample_data
+sample_478,2026-02-12 22:08:35.542518,Python programming exceeded all my expectations! Fantastic! #Pythonprogramming,user9759,20,9,30,sample_data
+sample_479,2026-02-08 18:08:35.542518,Looking into Python programming options. Any recommendations?,user8661,32,12,22,sample_data
+sample_480,2026-02-05 16:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user1393,460,22,26,sample_data
+sample_481,2026-01-17 23:08:35.542518,Python programming is incredible! Everyone should try it,user7263,152,90,41,sample_data
+sample_482,2026-01-19 18:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user4818,159,13,37,sample_data
+sample_483,2026-02-05 04:08:35.542518,Python programming exceeded all my expectations! Fantastic!,user5285,108,8,50,sample_data
+sample_484,2026-02-07 11:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user5370,449,86,40,sample_data
+sample_485,2026-02-10 23:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user3901,277,92,9,sample_data
+sample_486,2026-01-26 12:08:35.542518,Comparing Python programming with alternatives. Thoughts? #Pythonprogramming,user2568,257,96,39,sample_data
+sample_487,2026-02-07 16:08:35.542518,Thinking about trying Python programming. Mixed reviews though #Pythonprogramming,user4058,130,80,48,sample_data
+sample_488,2026-01-21 11:08:35.542518,Considering Python programming. Need more information first #Pythonprogramming,user8920,140,42,15,sample_data
+sample_489,2026-02-13 03:08:35.542518,Has anyone used Python programming recently?,user6668,12,88,42,sample_data
+sample_490,2026-01-19 13:08:35.542518,Don't waste your time on Python programming. Terrible product,user3542,168,4,41,sample_data
+sample_491,2026-01-27 04:08:35.542518,Looking into Python programming options. Any recommendations?,user9434,29,67,35,sample_data
+sample_492,2026-02-03 19:08:35.542518,Regret buying Python programming. Should have read reviews first #Pythonprogramming,user8024,446,0,48,sample_data
+sample_493,2026-02-09 01:08:35.542518,Python programming is incredible! Everyone should try it #Pythonprogramming,user1925,363,44,19,sample_data
+sample_494,2026-02-13 18:08:35.542518,Obsessed with Python programming! Life is so much better now #Pythonprogramming,user8331,272,49,44,sample_data
+sample_495,2026-01-17 04:08:35.542518,Considering Python programming. Need more information first,user3620,315,10,45,sample_data
+sample_496,2026-02-02 15:08:35.542518,Comparing Python programming with alternatives. Thoughts?,user9995,161,7,5,sample_data
+sample_497,2026-02-14 16:08:35.542518,Python programming seems interesting. Need to research more #Pythonprogramming,user6274,428,26,31,sample_data
+sample_498,2026-02-07 09:08:35.542518,Obsessed with Python programming! Life is so much better now,user6624,196,7,31,sample_data
+sample_499,2026-01-22 11:08:35.542518,Can't stop using Python programming! Game changer for me #Pythonprogramming,user3886,197,12,38,sample_data
